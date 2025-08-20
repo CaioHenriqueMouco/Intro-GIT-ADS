@@ -7,3 +7,10 @@
 footer{
     text-align: end;
 };
+
+.container{
+
+    max-width: max-content;
+    background-color: blueviolet;
+    
+};
